@@ -4,7 +4,7 @@ Este script permite realizar una serie de ataques a diferentes cuentas de Gmail 
 Fue hecho con amor para la COMUNIDAD de BOOKFILFACE.
 
 EJECUTAR:
-python3 HackearGmaIl.py
+python3 HackearGmaII.py
 
 -------------------------------
 
